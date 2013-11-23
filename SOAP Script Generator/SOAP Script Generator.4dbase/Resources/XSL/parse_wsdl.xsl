@@ -154,7 +154,6 @@
 <xsl:if test="$output-part">
 
 <xsl:text>try&#xD;&#xA;</xsl:text>
-<xsl:text>FourD_soap_response&#xD;&#xA;</xsl:text>
 <xsl:text>if class of FourD_soap_response is record then&#xD;&#xA;</xsl:text>
 
 <!--multiple values in response-->
